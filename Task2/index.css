@@ -1,0 +1,36 @@
+body{
+    left:0;
+    margin-top: 0;
+    background-color: #03380a;
+}
+form{
+    max-width: 300px;
+    height: 300px;
+    background-color:#0ef81d;
+    border-radius: 3%;
+    margin-left: 700px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+input{
+width: 90%;
+padding: 5px;
+font-style:italic;
+margin-top: 8px;
+
+}
+label{
+    font-size: larger;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;   
+}
+button{
+    cursor: pointer;
+    margin-top:10px;
+    border-radius: 10px;
+    background-color: #081b29;
+    color:#fbfefe;
+    font-weight:900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
